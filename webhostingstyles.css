@@ -48,7 +48,7 @@ a:hover {
 }
 
 #first, #second, #third,
-#fourth, #fifth, #sixth {
+#fourth, #fifth, #sixth, #seventh {
   position: relative;
   background-color:  #c9c9c9;
   color: white;
@@ -56,8 +56,8 @@ a:hover {
 }
 
 table {
-  margin-top: 125px;
-  margin-left: 110px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
