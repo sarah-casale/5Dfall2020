@@ -48,7 +48,7 @@ a:hover {
 }
 
 #first, #second, #third,
-#fourth, #fifth, #sixth, #seventh {
+#fourth, #fifth, #sixth, #seventh, #eighth {
   position: relative;
   background-color:  #c9c9c9;
   color: white;
@@ -79,4 +79,14 @@ table {
   text-align: center;
   background-color:  #c9c9c9;
   color: white;
+}
+
+#first8, #second8 {
+  text-align: center;
+  background-color:  #c9c9c9;
+  color: white;
+}
+
+.assignment8-page {
+  margin-top: 250px;
 }
